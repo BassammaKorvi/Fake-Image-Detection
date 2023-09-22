@@ -37,7 +37,7 @@ This guide provides step-by-step instructions for running the fake image detecti
 **Google Colab Notebook:** The main tool for running the fake image detection system is the Google Colab notebook. You can access the notebook using the following link: https://colab.research.google.com/drive/1ii5BVZULRcVZf9ElHyVVRlUdpsjz0Ffk?usp=sharing
 
 **Dataset:** The dataset required for testing the system can be downloaded from Kaggle using this link: CIFake Real and AI-generated Synthetic Images Dataset https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
-Please note that only a portion of the dataset has been used in this notebook due to its large size.
+Please note that only a portion of the dataset (https://drive.google.com/drive/folders/1I38uJ2aUICOmqodhT2aPFGNbEICXpZEQ?usp=sharing) has been used in this notebook due to its large size.
 
 **Now, let's get started with the usage instructions:**
 
